@@ -15,7 +15,7 @@ array(17) {
   ["charset"] => string(5) "utf-8"
   ["app_auth_token"] => NULL
   ["app_cert_sn"] => string(32) "edc25957feac2c428f8d839e599e6768"
-  ["alipay_root_cert_sn"] => string(65) "687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6"
+  ["alipay_root_cert_sn"] => string(65) "sssssssssssssss"
 }
 
 
