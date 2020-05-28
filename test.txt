@@ -1,0 +1,71 @@
+array(17) {
+  ["biz_content"] => string(157) "{"subject":"\u624b\u673a\u7f51\u7ad9\u652f\u4ed8","out_trade_no":"202052711812742","total_amount":"0.1","product_code":"QUICK_WAP_WAY","timeout_express":"5"}"
+  ["app_id"] => string(16) "2021001140620568"
+  ["version"] => string(3) "1.0"
+  ["format"] => string(4) "json"
+  ["sign_type"] => string(4) "RSA2"
+  ["method"] => string(20) "alipay.trade.wap.pay"
+  ["timestamp"] => string(19) "2020-05-27 11:09:52"
+  ["alipay_sdk"] => string(34) "alipay-sdk-php-easyalipay-20191227"
+  ["terminal_type"] => NULL
+  ["terminal_info"] => NULL
+  ["prod_code"] => NULL
+  ["notify_url"] => string(61) "http://spaytest.natapp1.cc/index.php/api/notify/notifyExecute"
+  ["return_url"] => string(61) "http://spaytest.natapp1.cc/index.php/api/notify/returnExecute"
+  ["charset"] => string(5) "utf-8"
+  ["app_auth_token"] => NULL
+  ["app_cert_sn"] => string(32) "edc25957feac2c428f8d839e599e6768"
+  ["alipay_root_cert_sn"] => string(65) "687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6"
+}
+
+
+string(627) "alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content={"subject":"\u624b\u673a\u7f51\u7ad9\u652f\u4ed8","out_trade_no":"202052711812742","total_amount":"0.1","product_code":"QUICK_WAP_WAY","timeout_express":"5"}&charset=utf-8&format=json&method=alipay.trade.wap.pay&notify_url=http://spaytest.natapp1.cc/index.php/api/notify/notifyExecute&return_url=http://spaytest.natapp1.cc/index.php/api/notify/returnExecute&sign_type=RSA2&timestamp=2020-05-27 11:09:52&version=1.0"
+
+
+
+
+
+string(1143) "https://openapi.alipay.com/gateway.do?alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content=%7B%22subject%22%3A%22%5Cu624b%5Cu673a%5Cu7f51%5Cu7ad9%5Cu652f%5Cu4ed8%22%2C%22out_trade_no%22%3A%22202052711812742%22%2C%22total_amount%22%3A%220.1%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22timeout_express%22%3A%225%22%7D&charset=utf-8&format=json&method=alipay.trade.wap.pay&notify_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FnotifyExecute&return_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FreturnExecute&sign=GdykBdqLYeY2tUDgjjcpLerk0tcoZ3nva50cuTYvx%2F6jnq1lRiunWloHDiNMD9Gfu0xspMzlhm9vJ3U71DNaT2uxT%2FYbtsg1%2F8Q56vINhPG9ub1g3YynlbhF37hGjT%2BmPW%2F5qY4SNyb%2F%2FJlDvWjPHpkaQJ%2BzAgbdbcrc5LJLx8D5iA0Wi8E7SdfUnUB8Kf2Opa4NDFuVPVpHfhQvJwqikzGJvrE02pnJMZY%2Fzc44FdZQYsl4SAvHpEEVqyIBMKX3LztHC1BXpLK8HzGXf8c0BtHFkBiR7wWnLBFXTxZ7E7IiwLvRdjiTWy1tDATstF85qOoM8myqSxZqmXSTWtRzgg%3D%3D&sign_type=RSA2&timestamp=2020-05-27+11%3A09%3A52&version=1.0"
+
+
+
+https://openapi.alipay.com/gateway.do?alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content=%7B%22subject%22%3A%22%E6%89%8B%E6%9C%BA%E7%BD%91%E7%AB%99%E6%94%AF%E4%BB%98%22%2C%22out_trade_no%22%3A%22202052712647514%22%2C%22total_amount%22%3A%220.1%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22timeout_express%22%3A%225%22%7D&charset=utf-8&format=json&method=alipay.trade.wap.pay&sign=r%2F0%2FVNxK2qLV8vFCAC7hPX8Ktnq8d6JYqttILsversionuOOocHCIX8T1BWHxNsa9WyKBPM35xgsajPA4P6ao1v3khKw3E%2BDdh0dXkmsnLTxHAVTfmnd5NnP1v3stV02bBIzxrkymTE%2BzcEFNkpquU%2FjJfgCWzTRFHd4Q2qf%2Fn%2F6yKEDHpDxGm98iSB5dewppvRxAPJuncUI%2BJem4rmQ4KGB0izRIiJlKy817JfxF2TlHZytmqNNZZVVyDgdluiW9eu37iV%2BLDzA88jXviQMeXUbzoXZWpTXXlLebzTVjk0UU9qgb3wlVV0vZ3u7TQoflX6Tc2L%2BoutUubQHlt0yPEKSplpgg%3D%3D&sign_type=RSA2×tamp=2020-05-27+12%3A06%3A48&=1.0
+
+https://openapi.alipay.com/gateway.do?alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content=%7B%22subject%22%3A%22%E6%89%8B%E6%9C%BA%E7%BD%91%E7%AB%99%E6%94%AF%E4%BB%98%22%2C%22out_trade_no%22%3A%22202052712859269%22%2C%22total_amount%22%3A%220.1%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22timeout_express%22%3A%225%22%7D&charset=utf-8&format=json&method=alipay.trade.wap.pay&sign=V3HBy%2F8ZG%2Bk%2Fyeq7ZZ1MnfZYxCPxxwFDqSXB%2BkdmJ%2FylVG2ROV7Y71uSVuKdsHj%2BqtH%2BEPFkw2F1aubp%2Fy8YcTK1x1WUSygKeDZOq2FXy0XcEPlZYwctJsogNzJJxb%2BQJXztOJ5E%2FdxP0hIgk1o4148OFw3ic0TtzTesNHRbWiU3QuaYb3PJ0brpIEqU7wux4lkfQEpG7e3yVQwBnqEATehVabSW85NCujzoJmb7egM5QY%2FBPBhlNIK3cGVD4BkoTb9FjaFZ6M3ay4I6%2BEnBZ4F2%2FhmCmEZng1x9piZ4%2FCTZ6rk%2FQtsKpG7QD2ozRW7A6rDbxkAzImnjdTVhxrCSKw%3D%3D&sign_type=RSA2×tamp=2020-05-27+12%3A09%3A00&version=1.0
+
+https://openapi.alipay.com/gateway.do?alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content=%7B%22subject%22%3A%22%E6%89%8B%E6%9C%BA%E7%BD%91%E7%AB%99%E6%94%AF%E4%BB%98%22%2C%22out_trade_no%22%3A%222020527121115176%22%2C%22total_amount%22%3A%220.1%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22timeout_express%22%3A%225%22%7D&charset=utf-8&format=json&method=alipay.trade.wap.pay¬ify_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FnotifyExecute&return_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FreturnExecute&sign=Se%2BG0DihvIky8R7JQA1DmATIMIWBgrj0ItY%2Fbg30EotXO6vxCSThKMcHy2T9VjtO6af9IwycZ90gFHka8RSLiFYE1NS%2BB%2BO%2F0gOsw%2F4YphpTC3mY6xk%2BGFYW2nqlPPVSCYxP3oJtljRn6ZmZNPNiNj7CDH1%2B5rzrlpLeBimc1C504Ez7Ejrus8nKHa94MkFRa2pPS%2FOUe3O%2BBk9OnkNE1rI%2BAwCSe1l8hK4v%2FOu%2FGyOOp0crhrHmdmvNNgSG9CqXref9U6G0qduc2Wws1yB0M3p1faHznnHKDcqK8YDVtLRPbhILozSTQE5x3BGnQhc464mLgqx%2B4eqvs01jqTHiIQ%3D%3D&sign_type=RSA2×tamp=2020-05-27+12%3A11%3A16&version=1.0
+
+
+
+string(1117) "alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content=%7B%22subject%22%3A%22%5Cu624b%5Cu673a%5Cu7f51%5Cu7ad9%5Cu652f%5Cu4ed8%22%2C%22out_trade_no%22%3A%22202052712303625%22%2C%22total_amount%22%3A%220.1%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22timeout_express%22%3A%225%22%7D&charset=utf-8&format=json&method=alipay.trade.wap.pay&notify_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FnotifyExecute&return_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FreturnExecute&sign=XGUsLVPz8xnbY%2BUl6MC%2FJtskd7UDZQQ809yp8aJ5gqV8PW7vY4aJ4mmFeDdBYHtR8tFbz79mqlBt0EwZHEu4dYlfbS1Gtm9cX%2Bir9fNthP%2FdwS2Ps66Kdysub4dDHzVAhiFiBMk%2Bt6FZ%2FLN4FSHLii3jj6mq%2Fmcaigdg3ffWf%2FDVo4H1NsYOgu63frJ96oD%2F1g17a2WDC7WUYatd3f1YcfnNGBqX8MNn6Xvwqd5Zaf8uxIPu8EflQQXTQamW0NLvfzC%2Fhl5FhCkh6pRwfUGALyr%2BNiUI6eH6QxPcQ3bVo%2BvuTIIy79GQ0ruaManNw%2F6R%2BrcsaO%2F2yQSQai12BsGTBA%3D%3D&sign_type=RSA2&timestamp=2020-05-27+12%3A30%3A04&version=1.0"
+
+https://openapi.alipay.com/gateway.do?alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content=%7B%22subject%22%3A%22%5Cu624b%5Cu673a%5Cu7f51%5Cu7ad9%5Cu652f%5Cu4ed8%22%2C%22out_trade_no%22%3A%22202052712317334%22%2C%22total_amount%22%3A%220.1%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22timeout_express%22%3A%225%22%7D&charset=utf-8&format=json&method=alipay.trade.wap.pay¬ify_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FnotifyExecute&return_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FreturnExecute&sign=NwZFYqksq3WudAZBDyyGvbAnyDUf135C0Zv5Jh8EXZbxW%2FlrEE5jp%2BRPFf1jQADRJ328rBnVw4HhDboQFxr2w71jbydiPIUWgrSMSx2vurPkD3CDdjYaBsmeZ2vYET1uiex9cVDq8OJw%2BhwnZiEKGZNhUOz3bU8WA1Qlp5O8p%2B7hrjDzVrJHJM7Ah0oqj%2B9OdaRCGrFdn6aBf8VCbXxRvgQGEAnxaMo1kxnU0EKNQoNI%2FPRJgYIQ3N5mTnbwULKIhWN3dIkCMYSM65bnwyE9GeUBf1PLjSpWf2nEk1mtLaW7cvn4qVaB8FN7jSY9wRAjD%2BQXhKhk%2FXjMP5V6l8v%2Bxw%3D%3D&sign_type=RSA2×tamp=2020-05-27+12%3A31%3A08&version=1.0
+
+string(1141) "https://openapi.alipay.com/gateway.do?alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-php-easyalipay-20191227&app_cert_sn=edc25957feac2c428f8d839e599e6768&app_id=2021001140620568&biz_content=%7B%22subject%22%3A%22%5Cu624b%5Cu673a%5Cu7f51%5Cu7ad9%5Cu652f%5Cu4ed8%22%2C%22out_trade_no%22%3A%22202052712329979%22%2C%22total_amount%22%3A%220.1%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22timeout_express%22%3A%225%22%7D&charset=utf-8&format=json&method=alipay.trade.wap.pay&notify_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FnotifyExecute&return_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FreturnExecute&sign=HvIr5%2Fx3%2Fwpcob5LeRVX1SQt1bvj0zfNHfB0oz8S94EYGnKpT2PTWVmC6wvknFeZtzfYxzACM1OFPHKHkxmLziQb7F10Qbn91cFOcwYWH4kZ3gJmkUuTwPTzrnxMD1o3c4QMJAKWhmcWcCZO1rE18H%2FfkRD3RRmNyxV49UGMRu7IkHdc6sOnp3gDB%2F48X1M%2BacTUlsUnP0j7Dfr39T7zx0cYHkoJ3eEaU94YtHWJvloLqVYYKZikyh1IOWNu%2Fc07ZHXYjAjNQmxxIZslG0xkygTapXQGPeG3I4Xx1uuYaFxtvAkFDHPwK2D%2FxBRQzrFtCWhyqpXlrZkK%2FLK3bG87YA%3D%3D&sign_type=RSA2&timestamp=2020-05-27+12%3A32%3A10&version=1.0"
+
+
+
+["2020-05-27 18:03:33","alipay.fund.trans.uni.transfer","2021001140620568","WINNT","
+
+alipay-sdk-php-2020-04-15","https:\/\/openapi.alipay.com\/gateway.do?
+
+app_id=2021001140620568&version=1.0&format=json&sign_type=RSA2&method=
+alipay.fund.trans.uni.transfer×tamp=2020-05-27+18%3A03%3A33&auth_token=
+&alipay_sdk=alipay-sdk-php-2020-04-15&terminal_type=&terminal_info=&
+prod_code=¬ify_url=&charset=utf-8&app_auth_token=&
+app_cert_sn=edc25957feac2c428f8d839e599e6768&
+alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_dca6abf620dffc0d48cf0def26e9530c&
+target_app_id=&sign=
+r5LCtEt5gg1%2F83FcHVP9N9eRzXxBOwR30Jlo8J0BdsZQyOpaM6WMB9TSMJpX%2B%2Fh0nbb9YJHE1BhMKZzcXuop
+HHuDfoggO2X6MZHmuzuc3mFNbuzWbXvMrgEXAVgGbOsB%2Foad68uoQ8C81xDC46yRawaCx4saPQaGVDVdrG8h
+63ELXdLwZCtr4kop0%2BiGWrQD53%2FzJumeKWUQ4Mb4UpNpOMIcnXdNHDQ2WMCFxMJ6m7hSSnnigVxjCnmc
+FLpOWR7HyYBMMdaZX2ds9MKlJLvy9ZMIKu1zgP78mf3li7bNbh%2BHMoH7jXnEVLYEacKuujnpW6KpCBwF11e
+YRbnOJSLCHg%3D%3D","HTTP_ERROR_0","SSL certificate problem: unable to get local issuer certificate"]
+string(39) "alipay_fund_trans_uni_transfer_response"
+
+
+
+
+
+
+https://openapi.alipaydev.com/gateway.do?method=alipay.trade.wap.pay&app_id=2021001140620568&charset=utf-8&version=1.0&sign_type=RSA2&timestamp=2020-05-28%2003%3A50%3A49&notify_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FnotifyExecute&return_url=http%3A%2F%2Fspaytest.natapp1.cc%2Findex.php%2Fapi%2Fnotify%2FnotifyExecute&sign=bc9chXCPNmQu2Mg%2BamNssUN9jq58kuzbPXTw9wV5LEyruAQflA6xYPB5mohYXwTM6CUczdqxzOQ3v7V6%2FUtR1tM1Z2UWffxEfcrGfTWydSIbUo2gvfLlVfRe8f1BI3NygjSppGkeSd0KYPsVuCrkr8SINcAO7fLxp15ke4IYtHGLRrVtwk6%2BtEaIqBcDVXBS5r4QOod3prLWZ%2BiDXsuTts08moR2LlygIYid6ZD91EVUiaBPpVF%2FBsTB0P6DpeIqJbK5ahmH9X9kp8I5eXx55byb1G0yHAfxmQvxFtv%2FXjQYbhyCzpkhfTexIbjoGg8LXqcTOzjOIukvp%2BvFBVF3Vw%3D%3D&app_cert_sn=edc25957feac2c428f8d839e599e6768&alipay_root_cert_sn=687b59193f3f462dd5336e5abf83c5d8_02941eef3187dddf3d3b83462e1dfcf6&alipay_sdk=alipay-sdk-nodejs-3.1.1&biz_content=%7B%22out_trade_no%22%3A%22out_trade_no%22%2C%22product_code%22%3A%22QUICK_WAP_WAY%22%2C%22total_amount%22%3A%220.01%22%2C%22subject%22%3A%22%E5%95%86%E5%93%81%22%2C%22body%22%3A%22%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%22%7D
